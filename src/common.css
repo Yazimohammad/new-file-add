@@ -1,0 +1,24 @@
+.main{
+
+    background-color: yellow; margin: 20px;padding: 10px;
+}
+.heading{
+    text-align: center;
+
+
+    color: rgb(10, 245, 10);
+}
+.sub{
+
+background-color: aqua;
+height: 250px;
+width: 40%;
+margin: 10px;
+text-align: center;
+border: 2px solid black;
+font-size: 150pxpx;
+}
+.container{
+
+    display: flex;
+}

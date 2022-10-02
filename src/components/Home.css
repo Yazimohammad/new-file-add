@@ -1,0 +1,94 @@
+.home{
+
+margin: 10px;
+background-color: rgb(162, 184, 206);
+padding: 15px;
+margin-top: 0px;
+display: flex;
+ 
+}
+
+button{
+
+    font-size: 25px;
+    color: crimson;
+    margin: 5px;
+}
+span{
+
+    font-size: 25px;
+    color: maroon;
+    font-family: sans-serif;
+    margin-left: 3px;
+}
+p{
+font-size: 28px;
+color: darkblue;
+font-style: italic;
+font-weight: bold;
+}
+img{
+
+    height: 150px;
+    width: 150px;
+}
+
+.proditem{
+background-color: rgb(221, 121, 221);
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    width: 33%;
+    text-align: center;
+    margin-left: 25px;
+}
+
+marquee{
+
+    color: navy;
+    font-size: 20px ;
+    font-weight: bold;
+}
+
+.bulbred{
+
+width: 200px;
+height: 100px;
+background-color: red;
+margin-left:100px ;
+border-radius: 60%;
+border: 2px solid rgb(6, 6, 38);
+margin: 10px;
+
+}
+.bulbgreen{
+
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin-left: 100px ;
+    border-radius: 60%;
+    border: 2px solid blue;
+    margin: 10px;
+
+}
+.Playeritem{
+margin: 5px;
+padding: 5px;
+border: 2px solid black;
+width: 250px;
+text-align: center;
+
+position: relative;
+top: 20px;
+
+}
+.plyeritem{
+
+height: 10px;
+width: 20px;
+margin: 10px;
+
+}
